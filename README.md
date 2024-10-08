@@ -1,3 +1,3 @@
 # LandscapeTopView
 
-Developed with Unreal Engine 5
+Developed by Sergei Popov in Unreal Engine 5
